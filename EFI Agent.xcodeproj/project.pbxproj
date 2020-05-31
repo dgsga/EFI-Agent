@@ -199,7 +199,7 @@
 				TargetAttributes = {
 					A2991B611B34DBE700AC2B23 = {
 						CreatedOnToolsVersion = 6.1.1;
-						DevelopmentTeam = 5LGHPJM9ZR;
+						DevelopmentTeam = LRWWH5262R;
 					};
 				};
 			};
@@ -365,10 +365,10 @@
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
 				CLANG_ENABLE_OBJC_ARC = NO;
 				CLANG_ENABLE_OBJC_WEAK = YES;
-				CODE_SIGN_IDENTITY = "Mac Developer";
+				CODE_SIGN_IDENTITY = "-";
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 0133;
-				DEVELOPMENT_TEAM = 5LGHPJM9ZR;
+				DEVELOPMENT_TEAM = LRWWH5262R;
 				ENABLE_HARDENED_RUNTIME = YES;
 				INFOPLIST_FILE = "$(SRCROOT)/EFIAgent/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
@@ -386,10 +386,10 @@
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
 				CLANG_ENABLE_OBJC_ARC = NO;
 				CLANG_ENABLE_OBJC_WEAK = YES;
-				CODE_SIGN_IDENTITY = "Mac Developer";
+				CODE_SIGN_IDENTITY = "-";
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 0133;
-				DEVELOPMENT_TEAM = 5LGHPJM9ZR;
+				DEVELOPMENT_TEAM = LRWWH5262R;
 				ENABLE_HARDENED_RUNTIME = YES;
 				INFOPLIST_FILE = "$(SRCROOT)/EFIAgent/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
